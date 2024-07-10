@@ -12,7 +12,7 @@ const randomHexColor = () => {
 const ramdomWord = () => {
   const words = [
     "Cute",
-    "Great",
+    "CopiCopi",
     "Nice",
     "Blublu",
     "QT",
